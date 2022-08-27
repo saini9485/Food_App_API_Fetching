@@ -1,2 +1,2 @@
-<h1>OutPut</h1>
+<h1>OutPut Food App</h1>
 <img src="output.png" alt="image">
